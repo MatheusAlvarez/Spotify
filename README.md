@@ -20,6 +20,8 @@
 
 ## 💻 Sobre o projeto
 
+https://matheusalvarez.github.io/Spotify/
+
 Prepare-se para uma experiência musical única com o meu clone do Spotify, desenvolvido exclusivamente em HTML e CSS. Inspirado na estética moderna e elegante do Spotify, este projeto traz toda a vibe do serviço de streaming de música para a web.
 
 ---
